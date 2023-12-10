@@ -1,0 +1,45 @@
+@charset "utf-8";
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.top tr td {
+    border-bottom: 1px solid #d5e5f4;
+    border-right: 1px solid #d5e5f4;
+    border-top: 1px solid #d5e5f4;
+    border-left: 1px solid #d5e5f4;
+
+    line-height: 1.5;
+    line-height: 2;
+    padding: 10px 12px 8px;
+}
+
+.top tr th {
+    border-bottom: 1px solid blue;
+    border-right: 1px solid blue;
+    border-top: 1px solid blue;
+    border-left: 1px solid blue;
+    line-height: 1.5;
+    line-height: 2;
+    padding: 10px 12px 8px;
+}
+
+.ls {
+    display: flex;
+}
+
+table {
+    height: auto;
+    table-layout: fixed;
+    width: auto;
+
+}
+
+p {
+    text-align: center;
+}

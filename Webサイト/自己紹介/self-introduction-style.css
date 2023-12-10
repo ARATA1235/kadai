@@ -1,0 +1,21 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+    margin: auto;
+}
+
+.mark-list {
+    background-color: blanchedalmond;
+}
+
+.tp {
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+}
+
